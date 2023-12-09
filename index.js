@@ -6,6 +6,7 @@ const cron = require('node-cron');
 const urls = [
   'https://www.baidu.com',
   'https://www.google.com',
+  'https://render-ffo6.onrender.com',
   // 添加更多的URL
 ];
 
